@@ -1,0 +1,12 @@
+# Method 1 (RegEx baseline) & Core dependencies
+pandas>=2.0.0
+
+# Method 2 (RuBERT Classifier)
+torch>=2.0.0
+transformers>=4.30.0
+
+# Method 3 (LLM Judge - GigaChat)
+gigachat>=0.1.0
+
+# Optional: for running Jupyter Notebooks
+notebook>=7.0.0
